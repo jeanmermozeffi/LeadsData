@@ -1,0 +1,40 @@
+clients = [
+    'ACR AFMA', 'AGS', 'ALLIANZ AFRICA HOLDING GMBH', 'APBEF CI', 'ARTCI', 'ASSA ABLOY',
+    'BANQUE ATLANTIQUE CI', 'BOUCHARD CI', 'BPIFRANCE', 'BUREAU VERITAS', 'CAIMPEX',
+    'CATERPILAR', 'CEMOI CHOCOLAT', 'CEMOI-CI', 'CHARGEL', 'CIWA', 'COLAS AFRIQUE SUCCURSALE DE CO',
+    'DOLIDOL', 'EDF SAVANT GROUP', 'EDF-CI', 'EXCO', 'FAN MILK', 'FESI-FAYAT GROUP', 'FLEETI',
+    'FOUNDEVER', 'FRUINOV CI', 'HAUTES ETUDES COMMERCIALES', 'HOTEL GRIFFON', 'IGP', 'INTERBAT',
+    'INTERTEK MINERALS LIMITED', 'JESA INTERNATIONAL SA', 'LOUIS DREYFUS COMPANY CI',
+    'M TARGET TELECOM', 'NBCI', 'NGE CONTRACTING', 'NOVARTIS SASU',
+    'OBTIMA-BEG INGENERIE', 'P&N CI', 'PCM', 'PROJEX AFRIQUE DE L\'OUEST', 'PROSUMA',
+    'ROCHE CI', 'SATECO', 'SCB', 'SCHNEIDER', 'SEURECA', 'SIR', 'SISAG', 'SLB', 'SMT CI',
+    'SO-B-GREEN CI', 'SODIA', 'SPAC', 'SPIE BATIGNOLES', 'SUSU CI', 'TECTRA CI',
+    'TERMINAL HUILIER DE VRIDI', 'TEVIA ENERGIE', 'TotalEnergies Marketing CI SA', 'TRANSMED',
+    'VEOLIA', 'VINCI', 'WAVE CI', 'WEBHELP'
+]
+
+default_clients_list = [
+    'ACR AFMA', 'AFMA Group', 'AGS GROUP', 'AGS', 'SanlamAllianz', 'APBEF-CI', 'ARTCI', 'ASSA ABLOY Group',
+    'Banque Atlantique', 'BOUCHARD', 'Bpifrance', 'Bureau Veritas Group',
+    'CAIMPEX - Compagnie Agro-Industrielle pour l’Import et l’Export', 'CAIMPEX', 'Greeno',
+    'CATERPILAR', 'Groupe CÉMOI', 'CEMOI-CI', 'CHARGEL', 'CIWA', 'Colas Afrique',
+    'Dolidol', 'EDF SAVANT GROUP', 'Greeno (a joint-venture by EDF & SunCulture)', 'EDF-CI', 'EXCO',
+    'FAN MILK', 'FanMilk', 'FAYAT Group', 'FESI-FAYAT GROUP', 'FLEETI', 'FESI - FAYAT ENERGIE SERVICES INTERNATIONAL',
+    'SATELEC - FAYAT ENERGIE SERVICES', 'FAYAT ENERGIE SERVICES',
+    'FOUNDEVER', 'FRUINOV CI', 'HAUTES ETUDES COMMERCIALES', 'HOTEL GRIFFON', 'IGP', 'INTERBAT', 'INTERBAT CI',
+    'INTERTEK MINERALS LIMITED', 'Intertek Minerals', 'JESA S.A', 'LOUIS DREYFUS COMPANY CI', 'Louis Dreyfus Company',
+    'M TARGET TELECOM', 'Groupe MTarget', 'NBCI', 'NBCI OFFICIEL', 'NGE CONTRACTING', 'NOVARTIS SASU',
+    'OBTIMA-BEG INGENIERIE', 'P&N', 'PCM', 'PROJEX', 'PROJEX AFRIQUE', 'GROUPE PROJEX', 'PROSUMA',
+    'Groupe Prosuma', 'ROCHE CI', 'SATECO', 'SCB', 'SCHNEIDER', 'Schneider Electric', 'SEURECA', 'SIR', 'SISAG', 'SLB',
+    'SMT CI', 'SO-B-GREEN CI', 'SODIA', 'SPAC', 'SPIE BATIGNOLES', 'SUSU CI', 'TECTRA CI',
+    'TERMINAL HUILIER DE VRIDI', 'TEVIA ENERGIE', 'TotalEnergies Marketing CI SA', 'TRANSMED', 'VEOLIA', 'VINCI',
+    'WAVE CI', 'WEBHELP'
+]
+
+search_keys = [
+    'Directeur General',
+    'Directeur Financier',
+    'Directeur Exploitation',
+    'Gestionnaire Flotte',
+    'Directeur Production'
+]
